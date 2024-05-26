@@ -10,3 +10,49 @@
     background-color:black ;
     color: white;
 }
+.btn-1{
+ border-radius: 20px;
+ padding: 5px; 
+ background-color: yellow; 
+ margin-top: 20px; 
+}
+.btn-2{
+ border-radius: 20px;
+ padding: 5px; 
+ background-color: yellow;  
+}
+.btn-3{
+ border-radius: 20px;
+ padding: 5px;
+ background-color: yellow;   
+}
+.btn-4{
+ border-radius: 20px;
+ padding: 5px;   
+ background-color: yellow;
+}
+.btn-5{
+ border-radius: 20px;
+ padding: 5px;   
+ background-color: yellow;
+}
+.btn-1:hover{
+background-color: brown;
+color: white;
+}
+.btn-2:hover{
+background-color: brown;
+color: white;
+}
+.btn-3:hover{
+background-color: brown;
+color: white;
+}
+.btn-4:hover{
+background-color: brown;
+color: white;
+}
+.btn-5:hover{
+background-color: brown;
+color: white;
+}
